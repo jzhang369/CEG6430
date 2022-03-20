@@ -1,0 +1,8 @@
+17:10:11 **** Incremental Build of configuration Debug for project RTOSDemo ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for `main-build'.
+
+17:10:12 Build Finished (took 854ms)
+

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# 
+# Start of session at: Sun Jan 29 20:09:02 2017
+# Process ID: 16280
+# Current directory: C:/Users/apple/Desktop/160919_FreeRTOS_Labs/FreeRTOS-Plus/Demo/FreeRTOS_Plus_TCP_and_FAT_Zynq_SDK/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/apple/Desktop/160919_FreeRTOS_Labs/FreeRTOS-Plus/Demo/FreeRTOS_Plus_TCP_and_FAT_Zynq_SDK/webtalk/webtalk.log
+# Journal file: C:/Users/apple/Desktop/160919_FreeRTOS_Labs/FreeRTOS-Plus/Demo/FreeRTOS_Plus_TCP_and_FAT_Zynq_SDK/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
